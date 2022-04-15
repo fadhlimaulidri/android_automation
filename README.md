@@ -1,1 +1,1 @@
-# evermos_android_automation
+# android_automation
